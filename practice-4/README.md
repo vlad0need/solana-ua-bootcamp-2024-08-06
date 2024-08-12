@@ -6,3 +6,5 @@ Classroom.
 
 Не забудьте зберігти свою роботу (`git add`/`git commit`) та викласти її на
 GitHub (`git push`).
+
+
